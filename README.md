@@ -1,6 +1,6 @@
 ### Olá, me chamo Carlos Henrique (Twikee) e...
 
-- 👨‍💻 Atualmente cursando web developer full-stack - Blue edtech
+- 👨‍💻 Web developer full-stack
 - 📭 Contate-me: carlosh.sales@outlook.com
 - 😊 Pronome: ele/dele
 
